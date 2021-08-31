@@ -1,0 +1,32 @@
+USE `redm_extended`;
+
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+	('item_goldpan', 'Gold Pan', 1, 0, 1),
+	('item_gold_nugget', 'Gold Nugget', 1, 0, 1),
+	('item_goldtooth', 'Gold Tooth', 1, 0, 1),
+	('item_naval_compass', 'Naval Compass', 1, 0, 1),
+	('item_pocket_watch_gold', 'Golden Pocket Watch', 1, 0, 1),
+	('item_pocket_watch_silver', 'Silver Pocket Watch', 1, 0, 1),
+	('item_bracelet_gold', 'Gold Bracelet', 1, 0, 1),
+	('item_bracelet_platinum', 'Platinum Bracelet', 1, 0, 1),
+	('item_bracelet_silver', 'Silver Bracelet', 1, 0, 1),
+	('item_fluorite', 'Fluorite', 1, 0, 1),
+	('item_ammolite', 'Ammolite', 1, 0, 1),
+	('item_quartz_chunk', 'Quartz Chunk', 1, 0, 1),
+	('item_asteroid_chunk', 'Asteroid Chunk', 1, 0, 1),
+	('item_emerald', 'Emerald', 1, 0, 1),
+	('item_diamond', 'Diamond', 1, 0, 1),
+	('item_old_gun', 'Old Gun', 1, 0, 1),
+	('item_ring_diamond', 'Diamond Ring', 1, 0, 1),
+	('item_ring_platinum', 'Platinum Ring', 1, 0, 1),
+	('item_ring_silver', 'Silver Ring', 1, 0, 1),
+	('item_scrap_metal', 'Scrap Metal', 1, 0, 1),
+	('item_thimbleab', 'Thimbleab', 1, 0, 1),
+	('item_viking_comb', 'Viking Comb', 1, 0, 1),
+	('item_earring_pearl', 'Pearl Earring', 1, 0, 1),
+	('item_coinstack', 'Coinstack', 1, 0, 1),
+	('item_coin', 'Coin', 1, 0, 1),
+	('item_finger_bone', 'Finger Bone', 1, 0, 1),
+	('item_bait_worm', 'Worm Bait', 1, 0, 1),
+	('item_calderon_cross', 'Calderon Cross', 1, 0, 1)
+;
